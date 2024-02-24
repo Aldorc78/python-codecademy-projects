@@ -1,0 +1,20 @@
+Instructions
+
+CREATING MENU
+You’ve started a position as the lead programmer for the family-style Italian restaurant Basta Fazoolin’ with My Heart. The restaurant has been doing fantastically and seen a lot of growth lately. You’ve been hired to keep things organized.
+
+At Basta Fazoolin’ with my Heart our motto is simple: when you’re here with family, that’s great! We have four different menus: brunch, early-bird, dinner, and kids.
+
+Create a Menu class .
+
+CREATING FRANCHISES
+Basta Fazoolin’ with my Heart has seen tremendous success with the family market, which is fantastic because when you’re at Basta Fazoolin’ with my Heart with family, that’s great!
+
+We’ve decided to create more than one restaurant to offer our fantastic menus, services, and ambience around the country.
+
+First, let’s create a Franchise class.
+
+CREATING BUSINESS
+Since we’ve been so successful building out a branded chain of restaurants, we’ve decided to diversify. We’re going to create a restaurant that sells arepas!
+
+First let’s define a Business class.
